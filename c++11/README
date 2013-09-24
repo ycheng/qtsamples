@@ -3,7 +3,11 @@ c++11 you should know, if you comes from the comment to C++: "only your friend c
 
 1. lambda
 
+	zh ref: http://kheresy.wordpress.com/2010/05/27/c0x%EF%BC%9Alambda-expression/
+
 2. memory
+
+	en ref (msdn): http://msdn.microsoft.com/en-us/library/hh438473.aspxo		zh ref: http://legnaleurc.blogspot.tw/2012/08/garbage-collection-2.html
 
 3. casting
 
