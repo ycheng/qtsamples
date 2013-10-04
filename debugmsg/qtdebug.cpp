@@ -1,5 +1,5 @@
 
-#include <QtCore/qdebug.h>
+#include <QDebug>
 #include <QFile>
 #include <QTextStream>
 
